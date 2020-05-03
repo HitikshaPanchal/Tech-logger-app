@@ -26,5 +26,5 @@ Stack:
 
 ### Feature Description
 
--**System logs table:**
-![SystemLog](./assets/system-log-home.PNG)
+- **System logs table:**
+  ![SystemLog](./src/assets/system-log-home.PNG)
