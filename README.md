@@ -2,7 +2,7 @@
 
 This application for technicians to keep track of open and closed issues with date, time, and last updates.
 
-## Tech/Framework
+## Tech
 
 Stack:
 
