@@ -26,5 +26,18 @@ Stack:
 
 ### Feature Description
 
-- **System logs table:**
+- **System logs table:** Users can review the latest issues with technicians assign and priority of the task. In the search bar, the user can filter the log by technician name or task.
+
   ![SystemLog](./src/assets/system-log-home.PNG)
+
+- **Add new technician:** Assign new technician and add in technician list.
+
+  ![AddTech](./src/assets/new-technician.PNG)
+
+  ![TechList](./src/assets/tech-list.PNG)
+
+- **Enter system log:** Users can type the message, add a technician to review with/without prioritizing of issue.
+
+  ![TechLog](./src/assets/system-log.PNG)
+
+- **Delete feature:** Users can also remove the message or technicians from list.
